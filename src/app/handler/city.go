@@ -1,8 +1,8 @@
 package handler
 
 import (
-	"app/model"
 	"encoding/json"
+	"goproject/app/model"
 	"net/http"
 	"strconv"
 

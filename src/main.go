@@ -1,8 +1,8 @@
 package main
 
 import (
-	"app"
-	"config"
+	"goproject/app"
+	"goproject/config"
 	"os"
 )
 

@@ -4,9 +4,9 @@ import (
 	"log"
 	"net/http"
 
-	"app/handler"
-	"app/model"
-	"config"
+	"goproject/app/handler"
+	"goproject/app/model"
+	"goproject/config"
 
 	"github.com/gorilla/mux"
 	"github.com/jinzhu/gorm"
